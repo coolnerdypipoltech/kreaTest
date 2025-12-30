@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/kreaTest/static/css/main.4aa11926.css",
-    "main.js": "/kreaTest/static/js/main.71ae5f95.js",
+    "main.css": "/kreaTest/static/css/main.11527a85.css",
+    "main.js": "/kreaTest/static/js/main.47bea2ec.js",
     "static/js/453.4fe31c07.chunk.js": "/kreaTest/static/js/453.4fe31c07.chunk.js",
     "index.html": "/kreaTest/index.html",
-    "main.4aa11926.css.map": "/kreaTest/static/css/main.4aa11926.css.map",
-    "main.71ae5f95.js.map": "/kreaTest/static/js/main.71ae5f95.js.map",
+    "main.11527a85.css.map": "/kreaTest/static/css/main.11527a85.css.map",
+    "main.47bea2ec.js.map": "/kreaTest/static/js/main.47bea2ec.js.map",
     "453.4fe31c07.chunk.js.map": "/kreaTest/static/js/453.4fe31c07.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4aa11926.css",
-    "static/js/main.71ae5f95.js"
+    "static/css/main.11527a85.css",
+    "static/js/main.47bea2ec.js"
   ]
 }
